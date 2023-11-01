@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+body {
+  /*
+    this is max width and height of your extension
+    */
+  width: 800px;
+  height: 600px;
+  /* this is w font if you hate it delete it*/
+  font-family: "Lato", sans-serif;
+}
